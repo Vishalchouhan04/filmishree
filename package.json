@@ -1,0 +1,15 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "description": "bloging website",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bloging website",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
